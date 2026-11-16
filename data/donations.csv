@@ -1,0 +1,14 @@
+donation_id,donor,category,item,quantity,condition,age_min,age_max,area
+D01,Aarav,notebooks,Ruled notebooks,15,new,6,13,Garkheda
+D02,Meera,school_bag,School backpack,1,good,8,13,Cidco
+D03,Rohan,textbooks,Class 4 maths textbook,2,good,9,10,Osmanpura
+D04,Sana,geometry_box,Geometry box,3,good,10,13,Cidco
+D05,Kabir,storybooks,Picture storybooks,12,fair,5,9,Jalna Road
+D06,Isha,stationery,Pencils and erasers set,20,new,5,13,Garkheda
+D07,Dev,school_bag,School backpack,2,fair,6,10,Osmanpura
+D08,Anaya,notebooks,Drawing notebooks,8,good,5,10,Cidco
+D09,Veer,textbooks,Class 6 science textbook,1,good,11,12,Jalna Road
+D10,Tara,storybooks,Marathi storybooks,10,good,6,12,Garkheda
+D11,Anushka Chadrashekhar Sawai,stationery,paints,9,good,11,18,Cidco
+D12,Anushka Chadrashekhar Sawai,geometry_box,Geometry box,1,good,10,13,Cidco
+D13,Anushka Chadrashekhar Sawai,notebooks,Drawing notebooks,1,good,5,10,Cidco
